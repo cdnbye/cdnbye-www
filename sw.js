@@ -1,1 +1,1 @@
-self.importScripts('https://cdn.jsdelivr.net/npm/swarmcloud-hls@latest/dist/hls-proxy.js')
+self.importScripts('https://cdn.statically.io/gh/swarm-cloud/hls-p2p-engine/main/dist/hls-proxy.js')
